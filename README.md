@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+
 # AI Study Assistant
 
 An AI-powered desktop study application built with Python and Tkinter.
