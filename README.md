@@ -31,3 +31,29 @@ pip install -r requirements.txt
 ## Run
 
 python gui.py
+
+# Screenshots
+
+## Main Window
+
+![Main Window](screenshots/main-window.png)
+
+## Ask AI
+
+![Ask AI](screenshots/ask-ai.png)
+
+## AI Summarizer
+
+![AI Summarizer](screenshots/ai-summarizer.png)
+
+## AI Flashcards
+
+![AI Flashcards](screenshots/ai-flashcards.png)
+
+## AI Quiz Generator
+
+![AI Quiz Generator](screenshots/ai-quiz.png)
+
+## AI Study Planner
+
+![AI Study Planner](screenshots/ai-study-planner.png)
