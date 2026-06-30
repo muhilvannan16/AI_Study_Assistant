@@ -36,23 +36,23 @@ python gui.py
 
 ## Main Window
 
-![Main Window](screenshots/main-window.png)
+![Main Window](Screenshots/main-window.png)
 
 ## Ask AI
 
-![Ask AI](screenshots/ask-ai.png)
+![Ask AI](Screenshots/ask-ai.png)
 
 ## AI Summarizer
 
-![AI Summarizer](screenshots/ai-summarizer.png)
+![AI Summarizer](Screenshots/ai-summarizer.png)
 
 ## AI Flashcards
 
-![AI Flashcards](screenshots/ai-flashcards.png)
+![AI Flashcards](Screenshots/ai-flashcards.png)
 
 ## AI Quiz Generator
 
-![AI Quiz Generator](screenshots/ai-quiz.png)
+![AI Quiz Generator](Screenshots/ai-quiz.png)
 
 ## AI Study Planner
 
