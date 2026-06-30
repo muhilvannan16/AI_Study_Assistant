@@ -241,3 +241,21 @@ The project also helped me learn:
 This application uses the Groq API to generate AI responses.
 
 An internet connection and a valid API key are required for AI features.
+
+You must use your own API key for the AI features.
+
+### Requirements
+
+- Internet connection
+- A free Groq API key
+- Python packages listed in `requirements.txt`
+
+### Setting up your API Key
+
+1. Create a free account at https://console.groq.com
+2. Generate an API key.
+3. Open `ai.py`.
+4. Replace the placeholder with your own API key:
+
+```python
+API_KEY = "your_api_key_here"
