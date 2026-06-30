@@ -183,19 +183,6 @@ AI_Study_Assistant
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-If you have ideas for improvements:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a Pull Request
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
