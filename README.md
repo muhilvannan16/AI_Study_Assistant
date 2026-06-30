@@ -191,7 +191,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
-**Muhil Vannan**
+**Muhilvannan Elavazhagan**
 
 GitHub:
 
