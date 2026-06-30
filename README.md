@@ -221,3 +221,23 @@ https://github.com/muhilvannan16
 ## AI Study Planner
 
 ![AI Study Planner](Screenshots/ai-study-planner.png)
+
+
+## Why I Built This
+
+I built AI Study Assistant to help students organize their notes and study more efficiently using artificial intelligence.
+
+The project also helped me learn:
+
+- Python
+- Tkinter GUI development
+- Working with APIs
+- JSON file handling
+- Git and GitHub
+- Software design
+
+## Note
+
+This application uses the Groq API to generate AI responses.
+
+An internet connection and a valid API key are required for AI features.
