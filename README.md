@@ -56,4 +56,4 @@ python gui.py
 
 ## AI Study Planner
 
-![AI Study Planner](screenshots/ai-study-planner.png)
+![AI Study Planner](Screenshots/ai-study-planner.png)
